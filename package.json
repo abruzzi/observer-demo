@@ -1,0 +1,18 @@
+{
+  "name": "observer-demo",
+  "version": "1.0.0",
+  "description": "a observer pattern demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juntao Qiu",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abruzzi/observer-demo.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "node-notifier": "^4.2.3"
+  }
+}
